@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\tanim\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\tanim\\.nuget\\packages"
+    ]
+  }
+}
